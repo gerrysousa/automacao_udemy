@@ -18,5 +18,25 @@ Dicas para readme
 - [ ] 8) Tarefa 8
 
 ------------------------------
+Colocando um link no Read-me:
+[Fotinha do Gato git ](https://github.com/glauciadm/automacao_udemy/blob/master/features/octocat.png).
+
+
+## Titulo 2 exemplo de codigo bash
+
+```bash
+pip install foobar
+```
+
+## Exemplo de codigo python 
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+
 
 Isso aí...
