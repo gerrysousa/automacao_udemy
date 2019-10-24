@@ -18,5 +18,7 @@ Dicas para readme
 - [ ] 8) Tarefa 8
 
 ------------------------------
+Colocando um link no Read-me:
+[Fotinha do Gato git ](https://github.com/glauciadm/automacao_udemy/blob/master/features/octocat.png).
 
 Isso aí...
