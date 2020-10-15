@@ -1,6 +1,40 @@
 # automacao_udemy
  Automated Testing with capybara, cucumber and ruby
 
+Para rodar a automacao basta executar os comandos abaixo.
+
+Acessar o diretório do repositorio
+
+```bash
+cd c:\pasta\do\projeto
+```
+
+Instalar o bundle
+
+```bash
+bundle install
+```
+
+Inicia o cucumber
+
+```bash
+cucumber --init
+```
+
+Para rodar todos os testes utilize o comando
+
+```bash
+cucumber
+```
+
+Se vc deseja executar os testes com determinada tag 
+
+```bash
+cucumber --tags @cenario1,@cenario2,@cenario3
+```
+
+
+
 Dicas para readme
 
 **Titulo destacado**
