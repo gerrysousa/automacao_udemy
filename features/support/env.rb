@@ -5,10 +5,11 @@ require 'capybara/dsl'
 require 'capybara/rspec/matchers'
 require 'selenium-webdriver'
 
-
+#Configs Words
 World(Capybara::DSL)
 World(Capybara::RSpecMatchers)
 
+#Initial configs
 Capybara.configure do |config|
     #selenium - por padrão roda no firefox
     #selenium_chrome    
